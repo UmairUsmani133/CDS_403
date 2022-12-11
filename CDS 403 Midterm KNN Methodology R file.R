@@ -5,6 +5,7 @@ date: "10/18/2022"
 output: html_document
 ---
 
+
 #These files can be downloaded by exporting them through the links below
   
 covid_rates<-read.csv("C:\\Users\\Umair\\CDS 403 Project\\COVID-19_Vaccinations_in_the_United_States_County.csv") 
